@@ -2,7 +2,7 @@
 
 - 🌍 Based in India  
 - 🧠 Currently learning **Cloud**, **Web**, and **DevOps**  
-- 📫 Reach me at [nikhar663@gmail.com](mailto:nikhar663@gmail.com) or [@nikharx](https://x.com/nikharx) 
+- 📫 Reach me at [nikhar663@gmail.com](mailto:nikhar663@gmail.com) or [@nikharso](https://x.com/nikharso) 
 - 🖥️ See my work at [nikharsavaliya.me](http://nikharsavaliya.me)  
 - 🤝 Open to collaboration on cool, impactful projects
 
@@ -28,25 +28,25 @@
 <details>
   <summary>⚡ GitHub Activity</summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=nikharx&show_icons=true&theme=tokyonight&hide_border=true" alt="Nikhar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikharso&show_icons=true&theme=tokyonight&hide_border=true" alt="Nikhar's GitHub Stats" />
 </details>
 
 <details>
   <summary>🔥 GitHub Streak</summary>
   <br />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=nikharx&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Nikhar's GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=nikharso&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Nikhar's GitHub Streak" />
 </details>
 
 <details>
   <summary>📈 Most Used Languages</summary>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikharx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikharso&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </details>
 
 
 ## 🌐 Connect With Me
 
-[![Twitter](https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=dark)](https://x.com/nikharx)
+[![Twitter](https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=dark)](https://x.com/nikharso)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark)](https://in.linkedin.com/in/nikharsavaliya)
 
 ---
