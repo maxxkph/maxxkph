@@ -1,13 +1,10 @@
-<h2 align="center">Hi ,I'm Nikhar Savaliya</h1>
 
 
-- 🌍 Based in India  
-- 🧠 Currently learning **Cloud**, **Web**, and **DevOps**  
-- 📫 Reach me at [nikhar663@gmail.com](mailto:nikhar663@gmail.com) or [@nikharso](https://x.com/nikharso) 
-- 🖥️ See my work at [nikhar.dev](https://nikhar.dev)  
-- 🤝 Open to collaboration on cool, impactful projects
+- 🌍 Based in Gujarat, India.  
+- 📫 Reach me via [email](mailto:nikhar663@gmail.com) or [twitter](https://x.com/nikharso) or [linkedin](https://linkedin.com/in/nikharsavaliya).
+- 🖥️ See my work at [nikhar.dev](https://nikhar.dev).
 
-<!-- <img alt="Discord" src="https://img.shields.io/discord/1284548472363679835?style=flat&logo=discord&logoColor=8aadf4&label=%20&labelColor=24273a&color=8aadf4"> -->
+<!-- <img alt="Discord" src="https://img.shields.io/discord/1284548472363679835?style=flat&logo=discord&logoColor=8aadf4&label=%20&labelColor=24273a&color=8aadf4"> 
 
 
 ## 💻 Skills
@@ -53,3 +50,5 @@
 ---
 
 <sub>© 2024 Nikhar Savaliya</sub>
+-->
+
