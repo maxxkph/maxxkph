@@ -1,12 +1,9 @@
-
-
-
+-  Writing @ [nikhar.dev](https://nikhar.dev).
+-  Contact @ [email](mailto:nikhar663@gmail.com) or [twitter](https://x.com/nikharso) or [linkedin](https://linkedin.com/in/nikharsavaliya).
 
 <!-- <img alt="Discord" src="https://img.shields.io/discord/1284548472363679835?style=flat&logo=discord&logoColor=8aadf4&label=%20&labelColor=24273a&color=8aadf4"> 
 
-- 🌍 Based in Gujarat, India.  
-- 📫 Reach me via [email](mailto:nikhar663@gmail.com) or [twitter](https://x.com/nikharso) or [linkedin](https://linkedin.com/in/nikharsavaliya).
-- 🖥️ See my work at [nikhar.dev](https://nikhar.dev).
+
 ## 💻 Skills
 
 <p>
