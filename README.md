@@ -1,3 +1,8 @@
+- been around computers and building things for fun since 2021.
+- currently at devx Labs, building custom ecommerce experiences for clients since 2025.
+
+<br/>
+
 -  Writing @ [nikhar.dev](https://nikhar.dev).
 -  Contact @ [email](mailto:nikhar663@gmail.com) or [twitter](https://x.com/maxxkph) or [linkedin](https://linkedin.com/in/nikhar-savaliya).
 
